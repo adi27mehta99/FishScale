@@ -1,3 +1,4 @@
 # Description
 
-## Here this application uses fish.csv data to predict the weight of different fishes based on the user's input for the name of the species and its different lengths. Based on that data a model is made to predict the output of the data.
+## This application leverages the `fish.csv` dataset to predict the weight of various fish species. The prediction is based on user-provided input, which includes the species name and various length measurements. The application utilizes a predictive model trained on this dataset to generate the output.
+
